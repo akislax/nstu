@@ -28,3 +28,5 @@ int main() {
     cout << "Длина диагонали: " << diagonalLenght(height, width);
     return 0;
 }
+
+/* вот так вот */
