@@ -3,6 +3,7 @@
 #include <cassert>
 #include <locale.h>
 
+//qweqwe
 //FortunaMA
 
 using namespace std;
