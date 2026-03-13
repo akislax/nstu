@@ -3,6 +3,8 @@
 #include <cassert>
 #include <locale.h>
 
+//FortunaMA
+
 using namespace std;
 
 const double PI = 3.14159265358979323846;
