@@ -5,7 +5,6 @@ int main(){
     int a;
     int b;
     int c;
-    int q; 
     double perimeter;
     double semi_perimetr;
     cout << "Введите длину сторон треугольника: " << endl;
